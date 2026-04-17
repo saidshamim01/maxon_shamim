@@ -35,7 +35,7 @@ def first_step():
     os.system("termux-open-url https://www.facebook.com/profile.php?id=100000462455013")
 
     # 👉 Youtube Channel Auto-Open
-    os.system("termux-open-url https://youtube.com/@sktechit0?si=KFtp37kI0IVqck0w")
+    os.system("termux-open-url https://www.facebook.com/profile.php?id=100000462455013")
 
     print("\033[1;32m KEY APKO FACEBOOK ID SA MILY GI ✅ \033[0m\n")
     print("[!] Pehle Facebook page follow karo.")
